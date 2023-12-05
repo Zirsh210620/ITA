@@ -21,7 +21,11 @@ namespace IT_ACADEMY
                 sb.Append(bytes[i].ToString("x2"));
             }
             //hellohello
+ third
             return sb.ToString(); //ddddddd
+
+            return sb.ToString();//sha256
+ master
         }
     }
 }
