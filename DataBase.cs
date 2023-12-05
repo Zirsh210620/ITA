@@ -18,7 +18,7 @@ namespace IT_ACADEMY
                 sqlConnection.Open();
             }
         }
-
+        //oaoaoaommm
         public void closeConnection()
         {
             if (sqlConnection.State == System.Data.ConnectionState.Open)
@@ -26,11 +26,15 @@ namespace IT_ACADEMY
                 sqlConnection.Close();
             }
         }
-
+        //bbbbbb
         public SqlConnection getConnection()
         {
             return sqlConnection;
         }
-
+         //MEOW!!
     }
+ first
 }//https://
+
+}//ZXC
+ master
