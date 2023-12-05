@@ -26,7 +26,7 @@ namespace IT_ACADEMY
                 sqlConnection.Close();
             }
         }
-
+        //bbbbbb
         public SqlConnection getConnection()
         {
             return sqlConnection;
