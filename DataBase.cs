@@ -18,7 +18,7 @@ namespace IT_ACADEMY
                 sqlConnection.Open();
             }
         }
-
+        //oaoaoaommm
         public void closeConnection()
         {
             if (sqlConnection.State == System.Data.ConnectionState.Open)
