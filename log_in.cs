@@ -14,7 +14,7 @@ namespace IT_ACADEMY
     {
         public log_in()
         {
-            InitializeComponent();
+            InitializeComponent(); //oaoaoaoaoaoa
         }
     }
 }
