@@ -20,7 +20,7 @@ namespace IT_ACADEMY
             {
                 sb.Append(bytes[i].ToString("x2"));
             }
-
+            //hellohello
             return sb.ToString();
         }
     }
