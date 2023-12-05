@@ -20,5 +20,6 @@ namespace IT_ACADEMY
             label7.MaximumSize = new Size(100, 0);
             label7.AutoSize = true;
         }
+        //Whats UP!
     }
 }
