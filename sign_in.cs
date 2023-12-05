@@ -18,5 +18,5 @@ namespace IT_ACADEMY
         }
         public void Z()
         { Console.WriteLine("Hello!"); }
-    }
+    }//zazazaa
 }
