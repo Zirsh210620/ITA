@@ -16,5 +16,6 @@ namespace IT_ACADEMY
         {
             InitializeComponent();
         }
+        //New game
     }
 }
