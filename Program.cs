@@ -18,5 +18,5 @@ namespace IT_ACADEMY
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new log_in());
         }
-    }
+    }//ccccccc
 }
