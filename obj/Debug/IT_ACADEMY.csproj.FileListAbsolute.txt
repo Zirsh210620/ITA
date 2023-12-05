@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\bin\Debug\IT_ACADEMY.exe.config
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\bin\Debug\IT_ACADEMY.exe
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\bin\Debug\IT_ACADEMY.pdb
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.IT_form.resources
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.log_in.resources
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.sign_in.resources
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.Properties.Resources.resources
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.exe
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.pdb
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.Courses.resources
+C:\Users\User\Desktop\ИжГТУ\3сем\ПИ\IT_ACADEMY\IT_ACADEMY\obj\Debug\IT_ACADEMY.LC.resources
