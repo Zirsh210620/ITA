@@ -17,6 +17,11 @@ namespace IT_ACADEMY
             InitializeComponent();
         }
         public void Z()
+ first
+        { Console.WriteLine("Hello!"); }
+    }//zazazaa
+
         { Console.WriteLine("Hello!"); } //bye bye
     }//hi hi
+ master
 }

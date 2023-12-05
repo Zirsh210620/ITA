@@ -16,5 +16,5 @@ namespace IT_ACADEMY
         {
             InitializeComponent(); //oaoaoaoaoaoa
         }
-    }
+    }//hhhh
 }
